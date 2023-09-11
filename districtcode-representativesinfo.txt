@@ -1,0 +1,436 @@
+STATE-DISTRICT;Name;Party;Office Room;Phone;Committee Assignment
+AL-01;Carl  Jerry;R;1330 LHOB;(202) 225-4931;Appropriations|Natural Resources
+AL-02;Moore  Barry;R;1504 LHOB;(202) 225-2901;Agriculture|Judiciary
+AL-03;Rogers  Mike;R;2469 RHOB;(202) 225-3261;Armed Services
+AL-04;Aderholt  Robert;R;266 CHOB;(202) 225-4876;Appropriations
+AL-05;Strong  Dale;R;1337 LHOB;(202) 225-4801;Armed Services|Homeland Security|Science  Space  and Technology
+AL-06;Palmer  Gary;R;170 CHOB;(202) 225-4921;Oversight and Accountability|Energy and Commerce
+AL-07;Sewell  Terri;D;1035 LHOB;(202) 225-2665;Armed Services|House Administration|Ways and Means
+AK-AL;Peltola  Mary;D;153 CHOB;(202) 225-5765;Natural Resources|Transportation and Infrastructure
+AZ-01;Schweikert  David;R;460 CHOB;(202) 225-2190;Ways and Means
+AZ-02;Crane  Elijah;R;1229 LHOB;(202) 225-3361;Homeland Security|Small Business|Veterans' Affairs
+AZ-03;Gallego  Ruben;D;1114 LHOB;(202) 225-4065;Armed Services|Natural Resources
+AZ-04;Stanton  Greg;D;207 CHOB;(202) 225-9888;Foreign Affairs|Transportation and Infrastructure
+AZ-05;Biggs  Andy;R;252 CHOB;(202) 225-2635;Oversight and Accountability|Judiciary
+AZ-06;Ciscomani  Juan;R;1429 LHOB;(202) 225-2542;Appropriations|Veterans' Affairs
+AZ-07;Grijalva  Raul;D;1203 LHOB;(202) 225-2435;Education and the Workforce|Natural Resources
+AZ-08;Lesko  Debbie;R;1214 LHOB;(202) 225-4576;Energy and Commerce|Select Subcommittee on the Coronavirus Pandemic
+AZ-09;Gosar  Paul;R;2057 RHOB;(202) 225-2315;Oversight and Accountability|Natural Resources
+AR-01;Crawford  Eric;R;2422 RHOB;(202) 225-4076;Agriculture|Intelligence|Transportation and Infrastructure|Science  Space  and Technology
+AR-02;Hill  J.;R;1533 LHOB;(202) 225-2506;Financial Services|Foreign Affairs|Intelligence
+AR-03;Womack  Steve;R;2412 RHOB;(202) 225-4301;Appropriations
+AR-04;Westerman  Bruce;R;202 CHOB;(202) 225-3772;Natural Resources|Transportation and Infrastructure
+CA-01;LaMalfa  Doug;R;408 CHOB;(202) 225-3076;Agriculture|Natural Resources|Transportation and Infrastructure
+CA-02;Huffman  Jared;D;2445 RHOB;(202) 225-5161;Natural Resources|Transportation and Infrastructure
+CA-03;Kiley  Kevin;R;1032 LHOB;(202) 225-2523;Education and the Workforce|Judiciary
+CA-04;Thompson  Mike;D;268 CHOB;(202) 225-3311;Ways and Means
+CA-05;McClintock  Tom;R;2256 RHOB;(202) 225-2511;Budget|Natural Resources|Judiciary
+CA-06;Bera  Ami;D;172 CHOB;(202) 225-5716;Foreign Affairs|Intelligence|Select Subcommittee on the Coronavirus Pandemic
+CA-07;Matsui  Doris;D;2311 RHOB;(202) 225-7163;Energy and Commerce
+CA-08;Garamendi  John;D;2004 RHOB;(202) 225-1880;Armed Services|Select Subcommittee on the Weaponization of the Fed Govt|Transportation and Infrastructure
+CA-09;Harder  Josh;D;209 CHOB;(202) 225-4540;Appropriations
+CA-10;DeSaulnier  Mark;D;503 CHOB;(202) 225-2095;Education and the Workforce|Transportation and Infrastructure|Ethics
+CA-11;Pelosi  Nancy;D;1236 LHOB;(202) 225-4965;
+CA-12;Lee  Barbara;D;2470 RHOB;(202) 225-2661;Appropriations|Budget
+CA-13;Duarte  John;R;1535 LHOB;(202) 225-1947;Agriculture|Natural Resources|Transportation and Infrastructure
+CA-14;Swalwell  Eric;D;174 CHOB;(202) 225-5065;Homeland Security|Judiciary
+CA-15;Mullin  Kevin;D;1404 LHOB;(202) 225-3531;Natural Resources|Science  Space  and Technology
+CA-16;Eshoo  Anna;D;272 CHOB;(202) 225-8104;Energy and Commerce
+CA-17;Khanna  Ro;D;306 CHOB;(202) 225-2631;Armed Services|Oversight and Accountability|Select Comm on the Strategic Competition US and China
+CA-18;Lofgren  Zoe;D;1401 LHOB;(202) 225-3072;Judiciary|Science  Space  and Technology
+CA-19;Panetta  Jimmy;D;304 CHOB;(202) 225-2861;Armed Services|Budget|Ways and Means
+CA-20;McCarthy  Kevin;R;2468 RHOB;(202) 225-2915;
+CA-21;Costa  Jim;D;2081 RHOB;(202) 225-3341;Agriculture|Foreign Affairs
+CA-22;Valadao  David;R;2465 RHOB;(202) 225-4695;Appropriations|Budget
+CA-23;Obernolte  Jay;R;1029 LHOB;(202) 225-5861;Energy and Commerce|Science  Space  and Technology
+CA-24;Carbajal  Salud;D;2331 RHOB;(202) 225-3601;Agriculture|Armed Services|Transportation and Infrastructure
+CA-25;Ruiz  Raul;D;2342 RHOB;(202) 225-5330;Energy and Commerce|Select Subcommittee on the Coronavirus Pandemic
+CA-26;Brownley  Julia;D;2262 RHOB;(202) 225-5811;Transportation and Infrastructure|Veterans' Affairs
+CA-27;Garcia  Mike;R;144 CHOB;(202) 225-1956;Appropriations|Intelligence|Science  Space  and Technology
+CA-28;Chu  Judy;D;2423 RHOB;(202) 225-5464;Small Business|Ways and Means
+CA-29;Cardenas  Tony;D;2181 RHOB;(202) 225-6131;Energy and Commerce
+CA-30;Schiff  Adam;D;2309 RHOB;(202) 225-4176;Judiciary
+CA-31;Napolitano  Grace;D;1610 LHOB;(202) 225-5256;Natural Resources|Transportation and Infrastructure
+CA-32;Sherman  Brad;D;2365 RHOB;(202) 225-5911;Financial Services|Foreign Affairs
+CA-33;Aguilar  Pete;D;108 CHOB;(202) 225-3201;Appropriations
+CA-34;Gomez  Jimmy;D;506 CHOB;(202) 225-6235;Oversight and Accountability|Intelligence
+CA-35;Torres  Norma;D;2227 RHOB;(202) 225-6161;Appropriations|House Administration
+CA-36;Lieu  Ted;D;2454 RHOB;(202) 225-3976;Foreign Affairs|Judiciary|Science  Space  and Technology
+CA-37;Kamlager-Dove  Sydney;D;1419 LHOB;(202) 225-7084;Foreign Affairs|Natural Resources
+CA-38;Sanchez  Linda;D;2428 RHOB;(202) 225-6676;Select Subcommittee on the Weaponization of the Fed Govt|Ways and Means
+CA-39;Takano  Mark;D;2078 RHOB;(202) 225-2305;Education and the Workforce|Veterans' Affairs
+CA-40;Kim  Young;R;1306 LHOB;(202) 225-4111;Financial Services|Foreign Affairs
+CA-41;Calvert  Ken;R;2205 RHOB;(202) 225-1986;Appropriations
+CA-42;Garcia  Robert;D;1305 LHOB;(202) 225-7924;Oversight and Accountability|Homeland Security|Select Subcommittee on the Coronavirus Pandemic
+CA-43;Waters  Maxine;D;2221 RHOB;(202) 225-2201;Financial Services
+CA-44;Barragan  Nanette;D;2312 RHOB;(202) 225-8220;Energy and Commerce
+CA-45;Steel  Michelle;R;1127 LHOB;(202) 225-2415;Education and the Workforce|Ways and Means|Select Comm on the Strategic Competition US and China
+CA-46;Correa  J.;D;2301 RHOB;(202) 225-2965;Homeland Security|Judiciary
+CA-47;Porter  Katie;D;1233 LHOB;(202) 225-5611;Oversight and Accountability|Natural Resources
+CA-48;Issa  Darrell;R;2108 RHOB;(202) 225-5672;Foreign Affairs|Select Subcommittee on the Weaponization of the Fed Govt|Judiciary|Science  Space  and Technology
+CA-49;Levin  Mike;D;2352 RHOB;(202) 225-3906;Natural Resources|Veterans' Affairs
+CA-50;Peters  Scott;D;1201 LHOB;(202) 225-0508;Budget|Energy and Commerce
+CA-51;Jacobs  Sara;D;1314 LHOB;(202) 225-2040;Armed Services|Foreign Affairs
+CA-52;Vargas  Juan;D;2334 RHOB;(202) 225-8045;Financial Services
+CO-01;DeGette  Diana;D;2111 RHOB;(202) 225-4431;Energy and Commerce
+CO-02;Neguse  Joe;D;2400 RHOB;(202) 225-2161;Natural Resources|Judiciary|Rules
+CO-03;Boebert  Lauren;R;1713 LHOB;(202) 225-4761;Oversight and Accountability|Natural Resources
+CO-04;Buck  Ken;R;2455 RHOB;(202) 225-4676;Foreign Affairs|Judiciary
+CO-05;Lamborn  Doug;R;2371 RHOB;(202) 225-4422;Armed Services|Natural Resources
+CO-06;Crow  Jason;D;1323 LHOB;(202) 225-7882;Foreign Affairs|Intelligence
+CO-07;Pettersen  Brittany;D;1230 LHOB;(202) 225-2645;Financial Services
+CO-08;Caraveo  Yadira;D;1024 LHOB;(202) 225-5625;Agriculture|Science  Space  and Technology
+CT-01;Larson  John;D;1501 LHOB;(202) 225-2265;Ways and Means
+CT-02;Courtney  Joe;D;2449 RHOB;(202) 225-2076;Armed Services|Education and the Workforce
+CT-03;DeLauro  Rosa;D;2413 RHOB;(202) 225-3661;Appropriations
+CT-04;Himes  James;D;2137 RHOB;(202) 225-5541;Financial Services|Intelligence
+CT-05;Hayes  Jahana;D;2458 RHOB;(202) 225-4476;Agriculture|Education and the Workforce
+DE-01;Blunt Rochester  Lisa;D;1724 LHOB;(202) 225-4165;Energy and Commerce
+FL-01;Gaetz  Matt;R;2021 RHOB;(202) 225-4136;Armed Services|Select Subcommittee on the Weaponization of the Fed Govt|Judiciary
+FL-02;Dunn  Neal;R;466 CHOB;(202) 225-5235;Energy and Commerce|Select Comm on the Strategic Competition US and China
+FL-03;Cammack  Kat;R;2421 RHOB;(202) 225-5744;Agriculture|Select Subcommittee on the Weaponization of the Fed Govt|Energy and Commerce
+FL-04;Bean  Aaron;R;1239 LHOB;(202) 225-0123;Education and the Workforce|Transportation and Infrastructure|Small Business
+FL-05;Rutherford  John;R;1711 LHOB;(202) 225-2501;Appropriations|Ethics
+FL-06;Waltz  Michael;R;244 CHOB;(202) 225-2706;Armed Services|Foreign Affairs|Intelligence
+FL-07;Mills  Cory;R;1237 LHOB;(202) 225-4035;Armed Services|Foreign Affairs
+FL-08;Posey  Bill;R;2150 RHOB;(202) 225-3671;Financial Services|Science  Space  and Technology
+FL-09;Soto  Darren;D;2353 RHOB;(202) 225-9889;Agriculture|Energy and Commerce
+FL-10;Frost  Maxwell;D;1224 LHOB;(202) 225-2176;Oversight and Accountability|Science  Space  and Technology
+FL-11;Webster  Daniel;R;2184 RHOB;(202) 225-1002;Natural Resources|Transportation and Infrastructure|Science  Space  and Technology
+FL-12;Bilirakis  Gus;R;2306 RHOB;(202) 225-5755;Energy and Commerce
+FL-13;Luna  Anna Paulina;R;1017 LHOB;(202) 225-5961;Oversight and Accountability|Natural Resources
+FL-14;Castor  Kathy;D;2052 RHOB;(202) 225-3376;Energy and Commerce|Select Comm on the Strategic Competition US and China
+FL-15;Lee  Laurel;R;1118 LHOB;(202) 225-5626;House Administration|Homeland Security|Judiciary
+FL-16;Buchanan  Vern;R;2110 RHOB;(202) 225-5015;Ways and Means
+FL-17;Steube  W.;R;2457 RHOB;(202) 225-5792;Select Subcommittee on the Weaponization of the Fed Govt|Ways and Means
+FL-18;Franklin  C.;R;249 CHOB;(202) 225-1252;Appropriations|Science  Space  and Technology|Veterans' Affairs
+FL-19;Donalds  Byron;R;1719 LHOB;(202) 225-2536;Financial Services|Oversight and Accountability
+FL-20;Cherfilus-McCormick  Sheila;D;242 CHOB;(202) 225-1313;Foreign Affairs|Veterans' Affairs
+FL-21;Mast  Brian;R;2182 RHOB;(202) 225-3026;Foreign Affairs|Transportation and Infrastructure
+FL-22;Frankel  Lois;D;2305 RHOB;(202) 225-9890;Appropriations
+FL-23;Moskowitz  Jared;D;1130 LHOB;(202) 225-3001;Foreign Affairs|Oversight and Accountability
+FL-24;Wilson  Frederica;D;2080 RHOB;(202) 225-4506;Education and the Workforce|Transportation and Infrastructure
+FL-25;Wasserman Schultz  Debbie;D;270 CHOB;(202) 225-7931;Appropriations|Select Subcommittee on the Weaponization of the Fed Govt
+FL-26;Diaz-Balart  Mario;R;374 CHOB;(202) 225-4211;Appropriations
+FL-27;Salazar  Maria;R;2162 RHOB;(202) 225-3931;Foreign Affairs|Small Business
+FL-28;Gimenez  Carlos;R;448 CHOB;(202) 225-2778;Armed Services|Homeland Security|Select Comm on the Strategic Competition US and China
+GA-01;Carter  Earl;R;2432 RHOB;(202) 225-5831;Budget|Energy and Commerce
+GA-02;Bishop  Sanford;D;2407 RHOB;(202) 225-3631;Appropriations
+GA-03;Ferguson  A.;R;2239 RHOB;(202) 225-5901;Budget|Ways and Means
+GA-04;Johnson  Henry;D;2240 RHOB;(202) 225-1605;Judiciary|Transportation and Infrastructure
+GA-05;Williams  Nikema;D;1406 LHOB;(202) 225-3801;Financial Services
+GA-06;McCormick  Richard;R;1213 LHOB;(202) 225-4272;Armed Services|Foreign Affairs|Science  Space  and Technology|Select Subcommittee on the Coronavirus Pandemic
+GA-07;McBath  Lucy;D;2246 RHOB;(202) 225-4501;Education and the Workforce|Judiciary
+GA-08;Scott  Austin;R;2185 RHOB;(202) 225-6531;Agriculture|Armed Services|Intelligence
+GA-09;Clyde  Andrew;R;445 CHOB;(202) 225-9893;Appropriations
+GA-10;Collins  Mike;R;1223 LHOB;(202) 225-4101;Natural Resources|Transportation and Infrastructure|Science  Space  and Technology
+GA-11;Loudermilk  Barry;R;2133 RHOB;(202) 225-2931;Financial Services|House Administration
+GA-12;Allen  Rick;R;462 CHOB;(202) 225-2823;Education and the Workforce|Energy and Commerce
+GA-13;Scott  David;D;468 CHOB;(202) 225-2939;Agriculture|Financial Services
+GA-14;Greene  Marjorie;R;403 CHOB;(202) 225-5211;Oversight and Accountability|Homeland Security|Select Subcommittee on the Coronavirus Pandemic
+HI-01;Case  Ed;D;2210 RHOB;(202) 225-2726;Appropriations|Natural Resources
+HI-02;Tokuda  Jill;D;1005 LHOB;(202) 225-4906;Agriculture|Armed Services|Select Subcommittee on the Coronavirus Pandemic
+ID-01;Fulcher  Russ;R;1514 LHOB;(202) 225-6611;Energy and Commerce|Natural Resources
+ID-02;Simpson  Michael;R;2084 RHOB;(202) 225-5531;Appropriations
+IL-01;Jackson  Jonathan;D;1641 LHOB;(202) 225-4372;Agriculture|Foreign Affairs
+IL-02;Kelly  Robin;D;2329 RHOB;(202) 225-0773;Energy and Commerce
+IL-03;Ramirez  Delia;D;1523 LHOB;(202) 225-5701;Homeland Security|Veterans' Affairs
+IL-04;Garcia  Jesus;D;1519 LHOB;(202) 225-8203;Transportation and Infrastructure
+IL-05;Quigley  Mike;D;2083 RHOB;(202) 225-4061;Appropriations
+IL-06;Casten  Sean;D;2440 RHOB;(202) 225-4561;Financial Services|Science  Space  and Technology
+IL-07;Davis  Danny;D;2159 RHOB;(202) 225-5006;Ways and Means
+IL-08;Krishnamoorthi  Raja;D;2367 RHOB;(202) 225-3711;Oversight and Accountability|Intelligence|Select Comm on the Strategic Competition US and China
+IL-09;Schakowsky  Janice;D;2408 RHOB;(202) 225-2111;Budget|Energy and Commerce
+IL-10;Schneider  Bradley;D;300 CHOB;(202) 225-4835;Ways and Means
+IL-11;Foster  Bill;D;2366 RHOB;(202) 225-3515;Financial Services
+IL-12;Bost  Mike;R;352 CHOB;(202) 225-5661;Transportation and Infrastructure|Veterans' Affairs
+IL-13;Budzinski  Nikki;D;1009 LHOB;(202) 225-2371;Agriculture|Veterans' Affairs
+IL-14;Underwood  Lauren;D;1410 LHOB;(202) 225-2976;Appropriations
+IL-15;Miller  Mary;R;1740 LHOB;(202) 225-5271;Agriculture|Education and the Workforce
+IL-16;LaHood  Darin;R;1424 LHOB;(202) 225-6201;Intelligence|Ways and Means|Select Comm on the Strategic Competition US and China
+IL-17;Sorensen  Eric;D;1205 LHOB;(202) 225-5905;Agriculture|Science  Space  and Technology
+IN-01;Mrvan  Frank;D;1607 LHOB;(202) 225-2461;Education and the Workforce|Veterans' Affairs
+IN-02;Yakym  Rudy;R;349 CHOB;(202) 225-3915;Budget|Transportation and Infrastructure
+IN-03;Banks  Jim;R;2418 RHOB;(202) 225-4436;Armed Services|Education and the Workforce|Select Comm on the Strategic Competition US and China
+IN-04;Baird  James;R;2303 RHOB;(202) 225-5037;Agriculture|Foreign Affairs|Science  Space  and Technology
+IN-05;Spartz  Victoria;R;1609 LHOB;(202) 225-2276;Judiciary
+IN-06;Pence  Greg;R;404 CHOB;(202) 225-3021;Energy and Commerce
+IN-07;Carson  Andre;D;2135 RHOB;(202) 225-4011;Intelligence|Transportation and Infrastructure|Select Comm on the Strategic Competition US and China
+IN-08;Bucshon  Larry;R;2313 RHOB;(202) 225-4636;Energy and Commerce
+IN-09;Houchin  Erin;R;1632 LHOB;(202) 225-5315;Financial Services|Education and the Workforce|Rules
+IA-01;Miller-Meeks  Mariannette;R;1034 LHOB;(202) 225-6576;Energy and Commerce|Select Subcommittee on the Coronavirus Pandemic|Veterans' Affairs
+IA-02;Hinson  Ashley;R;1717 LHOB;(202) 225-2911;Appropriations|Select Comm on the Strategic Competition US and China
+IA-03;Nunn  Zachary;R;1232 LHOB;(202) 225-5476;Agriculture|Financial Services
+IA-04;Feenstra  Randy;R;1440 LHOB;(202) 225-4426;Agriculture|Ways and Means
+KS-01;Mann  Tracey;R;344 CHOB;(202) 225-2715;Agriculture|Transportation and Infrastructure|Small Business
+KS-02;LaTurner  Jake;R;2441 RHOB;(202) 225-6601;Appropriations|Oversight and Accountability
+KS-03;Davids  Sharice;D;2435 RHOB;(202) 225-2865;Agriculture|Transportation and Infrastructure|Small Business
+KS-04;Estes  Ron;R;2234 RHOB;(202) 225-6216;Budget|Education and the Workforce|Ways and Means
+KY-01;Comer  James;R;2410 RHOB;(202) 225-3115;Education and the Workforce|Oversight and Accountability
+KY-02;Guthrie  Brett;R;2434 RHOB;(202) 225-3501;Energy and Commerce
+KY-03;McGarvey  Morgan;D;1527 LHOB;(202) 225-5401;Small Business|Veterans' Affairs
+KY-04;Massie  Thomas;R;2453 RHOB;(202) 225-3465;Select Subcommittee on the Weaponization of the Fed Govt|Judiciary|Transportation and Infrastructure|Rules
+KY-05;Rogers  Harold;R;2406 RHOB;(202) 225-4601;Appropriations
+KY-06;Barr  Andy;R;2430 RHOB;(202) 225-4706;Financial Services|Foreign Affairs|Select Comm on the Strategic Competition US and China
+LA-01;Scalise  Steve;R;2049 RHOB;(202) 225-3015;
+LA-02;Carter  Troy;D;442 CHOB;(202) 225-6636;Homeland Security|Transportation and Infrastructure
+LA-03;Higgins  Clay;R;572 CHOB;(202) 225-2031;Oversight and Accountability|Homeland Security
+LA-04;Johnson  Mike;R;568 CHOB;(202) 225-2777;Armed Services|Select Subcommittee on the Weaponization of the Fed Govt|Judiciary
+LA-05;Letlow  Julia;R;142 CHOB;(202) 225-8490;Appropriations|Education and the Workforce
+LA-06;Graves  Garret;R;2402 RHOB;(202) 225-3901;Natural Resources|Transportation and Infrastructure
+ME-01;Pingree  Chellie;D;2354 RHOB;(202) 225-6116;Agriculture|Appropriations
+ME-02;Golden  Jared;D;1710 LHOB;(202) 225-6306;Armed Services|Small Business
+MD-01;Harris  Andy;R;1536 LHOB;(202) 225-5311;Appropriations
+MD-02;Ruppersberger  C.;D;2206 RHOB;(202) 225-3061;Appropriations
+MD-03;Sarbanes  John;D;2370 RHOB;(202) 225-4016;Energy and Commerce
+MD-04;Ivey  Glenn;D;1529 LHOB;(202) 225-8699;Homeland Security|Judiciary|Ethics
+MD-05;Hoyer  Steny;D;1705 LHOB;(202) 225-4131;Appropriations
+MD-06;Trone  David;D;2404 RHOB;(202) 225-2721;Appropriations|Budget
+MD-07;Mfume  Kweisi;D;2263 RHOB;(202) 225-4741;Oversight and Accountability|Small Business|Select Subcommittee on the Coronavirus Pandemic
+MD-08;Raskin  Jamie;D;2242 RHOB;(202) 225-5341;Oversight and Accountability
+MA-01;Neal  Richard;D;372 CHOB;(202) 225-5601;Ways and Means
+MA-02;McGovern  James;D;370 CHOB;(202) 225-6101;Agriculture|Rules
+MA-03;Trahan  Lori;D;2439 RHOB;(202) 225-3411;Energy and Commerce
+MA-04;Auchincloss  Jake;D;1524 LHOB;(202) 225-5931;Transportation and Infrastructure|Select Comm on the Strategic Competition US and China
+MA-05;Clark  Katherine;D;2368 RHOB;(202) 225-2836;
+MA-06;Moulton  Seth;D;1126 LHOB;(202) 225-8020;Armed Services|Transportation and Infrastructure|Select Comm on the Strategic Competition US and China
+MA-07;Pressley  Ayanna;D;402 CHOB;(202) 225-5111;Financial Services
+MA-08;Lynch  Stephen;D;2109 RHOB;(202) 225-8273;Financial Services|Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability
+MA-09;Keating  William;D;2351 RHOB;(202) 225-3111;Armed Services|Foreign Affairs
+MI-01;Bergman  Jack;R;566 CHOB;(202) 225-4735;Armed Services|Budget|Veterans' Affairs
+MI-02;Moolenaar  John;R;246 CHOB;(202) 225-3561;Appropriations|Select Comm on the Strategic Competition US and China
+MI-03;Scholten  Hillary;D;1317 LHOB;(202) 225-3831;Transportation and Infrastructure|Small Business
+MI-04;Huizenga  Bill;R;2232 RHOB;(202) 225-4401;Financial Services|Foreign Affairs
+MI-05;Walberg  Tim;R;2266 RHOB;(202) 225-6276;Education and the Workforce|Energy and Commerce
+MI-06;Dingell  Debbie;D;102 CHOB;(202) 225-4071;Energy and Commerce|Natural Resources|Select Subcommittee on the Coronavirus Pandemic
+MI-07;Slotkin  Elissa;D;2245 RHOB;(202) 225-4872;Agriculture|Armed Services
+MI-08;Kildee  Daniel;D;200 CHOB;(202) 225-3611;Budget|Ways and Means
+MI-09;McClain  Lisa;R;444 CHOB;(202) 225-2106;Armed Services|Budget|Education and the Workforce|Oversight and Accountability
+MI-10;James  John;R;1319 LHOB;(202) 225-4961;Education and the Workforce|Foreign Affairs|Transportation and Infrastructure
+MI-11;Stevens  Haley;D;2411 RHOB;(202) 225-8171;Education and the Workforce|Science  Space  and Technology|Select Comm on the Strategic Competition US and China
+MI-12;Tlaib  Rashida;D;2438 RHOB;(202) 225-5126;Financial Services
+MI-13;Thanedar  Shri;D;1039 LHOB;(202) 225-5802;Homeland Security|Small Business
+MN-01;Finstad  Brad;R;1605 LHOB;(202) 225-2472;Agriculture|Armed Services
+MN-15;Craig  Angie;D;2442 RHOB;(202) 225-2271;Agriculture|Energy and Commerce
+MN-16;Phillips  Dean;D;2452 RHOB;(202) 225-2871;Foreign Affairs|Small Business
+MN-17;McCollum  Betty;D;2426 RHOB;(202) 225-6631;Appropriations
+MN-18;Omar  Ilhan;D;1730 LHOB;(202) 225-4755;Budget|Education and the Workforce
+MN-19;Emmer  Tom;R;464 CHOB;(202) 225-2331;Financial Services
+MN-20;Fischbach  Michelle;R;1004 LHOB;(202) 225-2165;Budget|Rules|Ethics|Ways and Means
+MN-21;Stauber  Pete;R;145 CHOB;(202) 225-6211;Natural Resources|Transportation and Infrastructure|Small Business
+MS-01;Kelly  Trent;R;2243 RHOB;(202) 225-4306;Agriculture|Armed Services|Intelligence
+MS-02;Thompson  Bennie;D;2466 RHOB;(202) 225-5876;Homeland Security
+MS-03;Guest  Michael;R;450 CHOB;(202) 225-5031;Appropriations|Homeland Security|Ethics
+MS-04;Ezell  Mike;R;443 CHOB;(202) 225-5772;Homeland Security|Transportation and Infrastructure
+MO-01;Bush  Cori;D;2463 RHOB;(202) 225-2406;Oversight and Accountability|Judiciary
+MO-02;Wagner  Ann;R;2350 RHOB;(202) 225-1621;Financial Services|Foreign Affairs
+MO-03;Luetkemeyer  Blaine;R;2230 RHOB;(202) 225-2956;Financial Services|Small Business|Select Comm on the Strategic Competition US and China
+MO-04;Alford  Mark;R;1516 LHOB;(202) 225-2876;Agriculture|Armed Services|Small Business
+MO-05;Cleaver  Emanuel;D;2217 RHOB;(202) 225-4535;Financial Services
+MO-06;Graves  Sam;R;1135 LHOB;(202) 225-7041;Armed Services|Transportation and Infrastructure
+MO-07;Burlison  Eric;R;1108 LHOB;(202) 225-6536;Education and the Workforce|Oversight and Accountability|Transportation and Infrastructure
+MO-08;Smith  Jason;R;1011 LHOB;(202) 225-4404;Ways and Means
+MT-01;Zinke  Ryan;R;512 CHOB;(202) 225-5628;Appropriations|Science  Space  and Technology
+MT-02;Rosendale  Matthew;R;1023 LHOB;(202) 225-3211;Natural Resources|Veterans' Affairs
+NE-01;Flood  Mike;R;343 CHOB;(202) 225-4806;Financial Services
+NE-02;Bacon  Don;R;2104 RHOB;(202) 225-4155;Agriculture|Armed Services
+NE-03;Smith  Adrian;R;502 CHOB;(202) 225-6435;Ways and Means
+NV-01;Titus  Dina;D;2464 RHOB;(202) 225-5965;Foreign Affairs|Homeland Security|Transportation and Infrastructure
+NV-02;Amodei  Mark;R;104 CHOB;(202) 225-6155;Appropriations
+NV-03;Lee  Susie;D;365 CHOB;(202) 225-3252;Appropriations|Natural Resources
+NV-04;Horsford  Steven;D;406 CHOB;(202) 225-9894;Armed Services|Financial Services
+NH-01;Pappas  Chris;D;452 CHOB;(202) 225-5456;Transportation and Infrastructure|Small Business|Veterans' Affairs
+NH-02;Kuster  Ann;D;2201 RHOB;(202) 225-5206;Energy and Commerce
+NJ-01;Norcross  Donald;D;2427 RHOB;(202) 225-6501;Armed Services|Education and the Workforce
+NJ-02;Van Drew  Jefferson;R;2447 RHOB;(202) 225-6572;Judiciary|Transportation and Infrastructure
+NJ-03;Kim  Andy;D;2444 RHOB;(202) 225-4765;Armed Services|Foreign Affairs|Select Comm on the Strategic Competition US and China
+NJ-04;Smith  Christopher;R;2373 RHOB;(202) 225-3765;Foreign Affairs
+NJ-05;Gottheimer  Josh;D;203 CHOB;(202) 225-4465;Financial Services|Intelligence
+NJ-06;Pallone  Frank;D;2107 RHOB;(202) 225-4671;Energy and Commerce
+NJ-07;Kean  Thomas;R;251 CHOB;(202) 225-5361;Foreign Affairs|Transportation and Infrastructure|Science  Space  and Technology
+NJ-08;Menendez  Robert;D;1007 LHOB;(202) 225-7919;Homeland Security|Transportation and Infrastructure
+NJ-09;Pascrell  Bill;D;2409 RHOB;(202) 225-5751;Ways and Means
+NJ-10;Payne  Donald;D;106 CHOB;(202) 225-3436;Homeland Security|Transportation and Infrastructure
+NJ-11;Sherrill  Mikie;D;1427 LHOB;(202) 225-5034;Armed Services|Select Comm on the Strategic Competition US and China
+NJ-12;Watson Coleman  Bonnie;D;168 CHOB;(202) 225-5801;Appropriations
+NM-01;Stansbury  Melanie;D;1421 LHOB;(202) 225-6316;Oversight and Accountability|Natural Resources
+NM-02;Vasquez  Gabe;D;1517 LHOB;(202) 225-2365;Agriculture|Armed Services
+NM-03;Leger Fernandez  Teresa;D;1510 LHOB;(202) 225-6190;Education and the Workforce|Natural Resources|Rules
+NY-01;LaLota  Nick;R;1530 LHOB;(202) 225-3826;Armed Services|Homeland Security|Small Business
+NY-02;Garbarino  Andrew;R;2344 RHOB;(202) 225-7896;Financial Services|Homeland Security|Ethics
+NY-03;Santos  George;R;1117 LHOB;(202) 225-3335;
+NY-04;D'Esposito  Anthony;R;1508 LHOB;(202) 225-5516;House Administration|Homeland Security|Transportation and Infrastructure
+NY-05;Meeks  Gregory;D;2310 RHOB;(202) 225-3461;Financial Services|Foreign Affairs
+NY-06;Meng  Grace;D;2209 RHOB;(202) 225-2601;Appropriations
+NY-07;Velazquez  Nydia;D;2302 RHOB;(202) 225-2361;Financial Services|Natural Resources|Small Business
+NY-08;Jeffries  Hakeem;D;2433 RHOB;(202) 225-5936;
+NY-09;Clarke  Yvette;D;2058 RHOB;(202) 225-6231;Homeland Security|Energy and Commerce
+NY-10;Goldman  Daniel;D;245 CHOB;(202) 225-7944;Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability|Homeland Security
+NY-11;Malliotakis  Nicole;R;351 CHOB;(202) 225-3371;Select Subcommittee on the Coronavirus Pandemic|Ways and Means
+NY-12;Nadler  Jerrold;D;2132 RHOB;(202) 225-5635;Judiciary
+NY-13;Espaillat  Adriano;D;2332 RHOB;(202) 225-4365;Appropriations|Budget
+NY-14;Ocasio-Cortez  Alexandria;D;250 CHOB;(202) 225-3965;Oversight and Accountability|Natural Resources
+NY-15;Torres  Ritchie;D;1414 LHOB;(202) 225-4361;Financial Services|Select Comm on the Strategic Competition US and China
+NY-16;Bowman  Jamaal;D;345 CHOB;(202) 225-2464;Education and the Workforce|Science  Space  and Technology
+NY-17;Lawler  Michael;R;1013 LHOB;(202) 225-6506;Financial Services|Foreign Affairs
+NY-18;Ryan  Patrick;D;1030 LHOB;(202) 225-5614;Armed Services|Transportation and Infrastructure
+NY-19;Molinaro  Marcus;R;1207 LHOB;(202) 225-5441;Agriculture|Transportation and Infrastructure|Small Business
+NY-20;Tonko  Paul;D;2369 RHOB;(202) 225-5076;Energy and Commerce|Science  Space  and Technology
+NY-21;Stefanik  Elise;R;2211 RHOB;(202) 225-4611;Armed Services|Education and the Workforce|Select Subcommittee on the Weaponization of the Fed Govt|Intelligence
+NY-22;Williams  Brandon;R;1022 LHOB;(202) 225-3701;Education and the Workforce|Transportation and Infrastructure|Science  Space  and Technology
+NY-23;Langworthy  Nicholas;R;1630 LHOB;(202) 225-3161;Agriculture|Oversight and Accountability|Rules
+NY-24;Tenney  Claudia;R;2349 RHOB;(202) 225-3665;Science  Space  and Technology|Ways and Means
+NY-25;Morelle  Joseph;D;570 CHOB;(202) 225-3615;Appropriations|House Administration
+NY-26;Higgins  Brian;D;2269 RHOB;(202) 225-3306;Budget|Ways and Means
+NC-01;Davis  Donald;D;1123 LHOB;(202) 225-3101;Agriculture|Armed Services
+NC-02;Ross  Deborah;D;1221 LHOB;(202) 225-3032;Judiciary|Ethics|Science  Space  and Technology|Select Subcommittee on the Coronavirus Pandemic
+NC-03;Murphy  Gregory;R;407 CHOB;(202) 225-3415;House Administration|Veterans' Affairs|Ways and Means
+NC-04;Foushee  Valerie;D;1716 LHOB;(202) 225-1784;Transportation and Infrastructure|Science  Space  and Technology
+NC-05;Foxx  Virginia;R;2462 RHOB;(202) 225-2071;Education and the Workforce|Oversight and Accountability
+NC-06;Manning  Kathy;D;307 CHOB;(202) 225-3065;Education and the Workforce|Foreign Affairs
+NC-07;Rouzer  David;R;2333 RHOB;(202) 225-2731;Agriculture|Transportation and Infrastructure
+NC-08;Bishop  Dan;R;2459 RHOB;(202) 225-1976;Select Subcommittee on the Weaponization of the Fed Govt|Homeland Security|Judiciary
+NC-09;Hudson  Richard;R;2112 RHOB;(202) 225-3715;Energy and Commerce
+NC-10;McHenry  Patrick;R;2134 RHOB;(202) 225-2576;Financial Services
+NC-11;Edwards  Chuck;R;1505 LHOB;(202) 225-6401;Budget|Oversight and Accountability|Transportation and Infrastructure
+NC-12;Adams  Alma;D;2436 RHOB;(202) 225-1510;Agriculture|Education and the Workforce
+NC-13;Nickel  Wiley;D;1133 LHOB;(202) 225-4531;Financial Services
+NC-14;Jackson  Jeff;D;1318 LHOB;(202) 225-5634;Armed Services|Science  Space  and Technology
+ND-AL;Armstrong  Kelly;R;2235 RHOB;(202) 225-2611;Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability|Energy and Commerce
+OH-01;Landsman  Greg;D;1432 LHOB;(202) 225-2216;Small Business|Veterans' Affairs
+OH-02;Wenstrup  Brad;R;2335 RHOB;(202) 225-3164;Intelligence|Select Subcommittee on the Coronavirus Pandemic|Ways and Means
+OH-03;Beatty  Joyce;D;2079 RHOB;(202) 225-4324;Financial Services
+OH-04;Jordan  Jim;R;2056 RHOB;(202) 225-2676;Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability|Judiciary
+OH-05;Latta  Robert;R;2467 RHOB;(202) 225-6405;Energy and Commerce
+OH-06;Johnson  Bill;R;2082 RHOB;(202) 225-5705;Energy and Commerce
+OH-07;Miller  Max;R;143 CHOB;(202) 225-3876;Agriculture|Science  Space  and Technology
+OH-08;Davidson  Warren;R;2113 RHOB;(202) 225-6205;Financial Services|Foreign Affairs
+OH-09;Kaptur  Marcy;D;2186 RHOB;(202) 225-4146;Appropriations
+OH-10;Turner  Michael;R;2183 RHOB;(202) 225-6465;Armed Services|Oversight and Accountability|Intelligence
+OH-11;Brown  Shontel;D;449 CHOB;(202) 225-7032;Agriculture|Oversight and Accountability|Select Comm on the Strategic Competition US and China
+OH-12;Balderson  Troy;R;2429 RHOB;(202) 225-5355;Energy and Commerce
+OH-13;Sykes  Emilia;D;1217 LHOB;(202) 225-6265;Transportation and Infrastructure|Science  Space  and Technology
+OH-14;Joyce  David;R;2065 RHOB;(202) 225-5731;Appropriations|Ethics
+OH-15;Carey  Mike;R;1433 LHOB;(202) 225-2015;House Administration|Ways and Means
+OK-01;Hern  Kevin;R;1019 LHOB;(202) 225-2211;Ways and Means
+OK-02;Brecheen  Josh;R;1208 LHOB;(202) 225-2701;Budget|Homeland Security
+OK-03;Lucas  Frank;R;2405 RHOB;(202) 225-5565;Agriculture|Financial Services|Science  Space  and Technology
+OK-04;Cole  Tom;R;2207 RHOB;(202) 225-6165;Appropriations|Rules
+OK-05;Bice  Stephanie;R;2437 RHOB;(202) 225-2132;Appropriations|Budget|House Administration|Science  Space  and Technology
+OR-01;Bonamici  Suzanne;D;2231 RHOB;(202) 225-0855;Education and the Workforce|Science  Space  and Technology
+OR-02;Bentz  Cliff;R;409 CHOB;(202) 225-6730;Natural Resources|Judiciary
+OR-03;Blumenauer  Earl;D;1111 LHOB;(202) 225-4811;Budget|Ways and Means
+OR-04;Hoyle  Val;D;1620 LHOB;(202) 225-6416;Natural Resources|Transportation and Infrastructure
+OR-05;Chavez-DeRemer  Lori;R;1722 LHOB;(202) 225-5711;Agriculture|Education and the Workforce|Transportation and Infrastructure
+OR-06;Salinas  Andrea;D;109 CHOB;(202) 225-5643;Agriculture|Science  Space  and Technology
+PA-01;Fitzpatrick  Brian;R;271 CHOB;(202) 225-4276;Intelligence|Ways and Means
+PA-02;Boyle  Brendan;D;1502 LHOB;(202) 225-6111;Budget
+PA-03;Evans  Dwight;D;1105 LHOB;(202) 225-4001;Ways and Means
+PA-04;Dean  Madeleine;D;150 CHOB;(202) 225-4731;Foreign Affairs|Judiciary
+PA-05;Scanlon  Mary;D;1227 LHOB;(202) 225-2011;Judiciary|Rules
+PA-06;Houlahan  Chrissy;D;1727 LHOB;(202) 225-4315;Armed Services|Intelligence
+PA-07;Wild  Susan;D;1027 LHOB;(202) 225-6411;Education and the Workforce|Foreign Affairs|Ethics
+PA-08;Cartwright  Matt;D;2102 RHOB;(202) 225-5546;Appropriations
+PA-09;Meuser  Daniel;R;350 CHOB;(202) 225-6511;Financial Services|Small Business
+PA-10;Perry  Scott;R;2160 RHOB;(202) 225-5836;Foreign Affairs|Oversight and Accountability|Transportation and Infrastructure
+PA-11;Smucker  Lloyd;R;302 CHOB;(202) 225-2411;Budget|Education and the Workforce|Ways and Means
+PA-12;Lee  Summer;D;243 CHOB;(202) 225-2135;Oversight and Accountability|Science  Space  and Technology
+PA-13;Joyce  John;R;152 CHOB;(202) 225-2431;Energy and Commerce|Select Subcommittee on the Coronavirus Pandemic
+PA-14;Reschenthaler  Guy;R;342 CHOB;(202) 225-2065;Appropriations|Rules
+PA-15;Thompson  Glenn;R;400 CHOB;(202) 225-5121;Agriculture|Education and the Workforce
+PA-16;Kelly  Mike;R;1707 LHOB;(202) 225-5406;Ways and Means
+PA-17;Deluzio  Christopher;D;1222 LHOB;(202) 225-2301;Armed Services|Veterans' Affairs
+RI-01;Cicilline  David;D;2233 RHOB;(202) 225-4911;Foreign Affairs|Judiciary
+RI-02;Magaziner  Seth;D;1218 LHOB;(202) 225-2735;Homeland Security|Natural Resources
+SC-01;Mace  Nancy;R;1728 LHOB;(202) 225-3176;Armed Services|Oversight and Accountability|Veterans' Affairs
+SC-02;Wilson  Joe;R;1436 LHOB;(202) 225-2452;Armed Services|Education and the Workforce|Foreign Affairs
+SC-03;Duncan  Jeff;R;2229 RHOB;(202) 225-5301;Energy and Commerce
+SC-04;Timmons  William;R;267 CHOB;(202) 225-6030;Financial Services|Oversight and Accountability
+SC-05;Norman  Ralph;R;569 CHOB;(202) 225-5501;Financial Services|Budget|Rules
+SC-06;Clyburn  James;D;274 CHOB;(202) 225-3315;
+SC-07;Fry  Russell;R;1626 LHOB;(202) 225-9895;Oversight and Accountability|Judiciary
+SD-AL;Johnson  Dusty;R;1714 LHOB;(202) 225-2801;Agriculture|Transportation and Infrastructure|Select Comm on the Strategic Competition US and China
+TN-01;Harshbarger  Diana;R;167 CHOB;(202) 225-6356;Energy and Commerce
+TN-02;Burchett  Tim;R;1122 LHOB;(202) 225-5435;Foreign Affairs|Oversight and Accountability|Transportation and Infrastructure
+TN-03;Fleischmann  Charles;R;2187 RHOB;(202) 225-3271;Appropriations|Science  Space  and Technology
+TN-04;DesJarlais  Scott;R;2304 RHOB;(202) 225-6831;Agriculture|Armed Services
+TN-05;Ogles  Andrew;R;151 CHOB;(202) 225-4311;Financial Services
+TN-06;Rose  John;R;2238 RHOB;(202) 225-4231;Agriculture|Financial Services
+TN-07;Green  Mark;R;2446 RHOB;(202) 225-2811;Foreign Affairs|Homeland Security
+TN-08;Kustoff  David;R;560 CHOB;(202) 225-4714;Ways and Means
+TN-09;Cohen  Steve;D;2268 RHOB;(202) 225-3265;Judiciary|Transportation and Infrastructure
+TX-01;Moran  Nathaniel;R;1541 LHOB;(202) 225-3035;Education and the Workforce|Foreign Affairs|Judiciary
+TX-02;Crenshaw  Dan;R;248 CHOB;(202) 225-6565;Energy and Commerce|Intelligence
+TX-03;Self  Keith;R;1113 LHOB;(202) 225-4201;Foreign Affairs|Veterans' Affairs
+TX-04;Fallon  Pat;R;2416 RHOB;(202) 225-6673;Armed Services|Oversight and Accountability
+TX-05;Gooden  Lance;R;2431 RHOB;(202) 225-3484;Judiciary|Transportation and Infrastructure
+TX-06;Ellzey  Jake;R;1721 LHOB;(202) 225-2002;Appropriations|Small Business
+TX-07;Fletcher  Lizzie;D;346 CHOB;(202) 225-2571;Energy and Commerce
+TX-08;Luttrell  Morgan;R;1320 LHOB;(202) 225-4901;Armed Services|Homeland Security|Veterans' Affairs
+TX-09;Green  Al;D;2347 RHOB;(202) 225-7508;Financial Services
+TX-10;McCaul  Michael;R;2300 RHOB;(202) 225-2401;Foreign Affairs|Homeland Security
+TX-11;Pfluger  August;R;1124 LHOB;(202) 225-3605;Homeland Security|Energy and Commerce
+TX-12;Granger  Kay;R;2308 RHOB;(202) 225-5071;Appropriations
+TX-13;Jackson  Ronny;R;446 CHOB;(202) 225-3706;Agriculture|Armed Services|Foreign Affairs|Select Subcommittee on the Coronavirus Pandemic
+TX-14;Weber  Randy;R;107 CHOB;(202) 225-2831;Energy and Commerce|Science  Space  and Technology
+TX-15;De La Cruz  Monica;R;1415 LHOB;(202) 225-9901;Agriculture|Financial Services
+TX-16;Escobar  Veronica;D;2448 RHOB;(202) 225-4831;Armed Services|Judiciary|Ethics
+TX-17;Sessions  Pete;R;2204 RHOB;(202) 225-6105;Financial Services|Oversight and Accountability
+TX-18;Jackson Lee  Sheila;D;2314 RHOB;(202) 225-3816;Budget|Homeland Security|Judiciary
+TX-19;Arrington  Jodey;R;1107 LHOB;(202) 225-4005;Budget|Ways and Means
+TX-20;Castro  Joaquin;D;2241 RHOB;(202) 225-3236;Foreign Affairs|Intelligence
+TX-21;Roy  Chip;R;103 CHOB;(202) 225-4236;Budget|Judiciary|Rules
+TX-22;Nehls  Troy;R;1104 LHOB;(202) 225-5951;Judiciary|Transportation and Infrastructure
+TX-23;Gonzales  Tony;R;2244 RHOB;(202) 225-4511;Appropriations|Homeland Security
+TX-24;Van Duyne  Beth;R;1725 LHOB;(202) 225-6605;Small Business|Ways and Means
+TX-25;Williams  Roger;R;2336 RHOB;(202) 225-9896;Financial Services|Small Business
+TX-26;Burgess  Michael;R;2161 RHOB;(202) 225-7772;Budget|Energy and Commerce|Rules
+TX-27;Cloud  Michael;R;171 CHOB;(202) 225-7742;Appropriations|Select Subcommittee on the Coronavirus Pandemic
+TX-28;Cuellar  Henry;D;2372 RHOB;(202) 225-1640;Appropriations
+TX-29;Garcia  Sylvia;D;2419 RHOB;(202) 225-1688;Financial Services|Select Subcommittee on the Weaponization of the Fed Govt
+TX-30;Crockett  Jasmine;D;1616 LHOB;(202) 225-8885;Agriculture|Oversight and Accountability
+TX-31;Carter  John;R;2208 RHOB;(202) 225-3864;Appropriations
+TX-32;Allred  Colin;D;348 CHOB;(202) 225-2231;Foreign Affairs|Select Subcommittee on the Weaponization of the Fed Govt|Transportation and Infrastructure
+TX-33;Veasey  Marc;D;2348 RHOB;(202) 225-9897;Armed Services|Energy and Commerce
+TX-34;Gonzalez  Vicente;D;154 CHOB;(202) 225-2531;Financial Services
+TX-35;Casar  Greg;D;1339 LHOB;(202) 225-5645;Agriculture|Oversight and Accountability
+TX-36;Babin  Brian;R;2236 RHOB;(202) 225-1555;Transportation and Infrastructure|Science  Space  and Technology
+TX-37;Doggett  Lloyd;D;2307 RHOB;(202) 225-4865;Budget|Ways and Means
+TX-38;Hunt  Wesley;R;1520 LHOB;(202) 225-5646;Natural Resources|Judiciary|Small Business
+UT-01;Moore  Blake;R;1131 LHOB;(202) 225-0453;Budget|Ways and Means
+UT-02;Stewart  Chris;R;166 CHOB;(202) 225-9730;Appropriations|Select Subcommittee on the Weaponization of the Fed Govt|Intelligence
+UT-03;Curtis  John;R;2323 RHOB;(202) 225-7751;Energy and Commerce|Natural Resources
+UT-04;Owens  Burgess;R;309 CHOB;(202) 225-3011;Education and the Workforce|Transportation and Infrastructure
+VT-AL;Balint  Becca;D;1408 LHOB;(202) 225-4115;Budget|Oversight and Accountability
+VA-01;Wittman  Robert;R;2055 RHOB;(202) 225-4261;Armed Services|Natural Resources|Select Comm on the Strategic Competition US and China
+VA-02;Kiggans  Jennifer;R;1037 LHOB;(202) 225-4215;Armed Services|Natural Resources|Veterans' Affairs
+VA-03;Scott  Robert;D;2328 RHOB;(202) 225-8351;Budget|Education and the Workforce
+VA-04;McClellan  Jennifer;D;2417 RHOB;(202) 225-6365;
+VA-05;Good  Bob;R;461 CHOB;(202) 225-4711;Budget|Education and the Workforce
+VA-06;Cline  Ben;R;2443 RHOB;(202) 225-5431;Appropriations|Budget|Judiciary
+VA-07;Spanberger  Abigail;D;562 CHOB;(202) 225-2815;Agriculture|Intelligence
+VA-08;Beyer  Donald;D;1119 LHOB;(202) 225-4376;Ways and Means
+VA-09;Griffith  H.;R;2202 RHOB;(202) 225-3861;House Administration|Energy and Commerce
+VA-10;Wexton  Jennifer;D;1210 LHOB;(202) 225-5136;Appropriations|Budget
+VA-11;Connolly  Gerald;D;2265 RHOB;(202) 225-1492;Foreign Affairs|Select Subcommittee on the Weaponization of the Fed Govt|Oversight and Accountability
+WA-01;DelBene  Suzan;D;2330 RHOB;(202) 225-6311;Ways and Means
+WA-02;Larsen  Rick;D;2163 RHOB;(202) 225-2605;Transportation and Infrastructure
+WA-03;Perez  Marie;D;1431 LHOB;(202) 225-3536;Agriculture|Small Business
+WA-04;Newhouse  Dan;R;504 CHOB;(202) 225-5816;Appropriations|Select Comm on the Strategic Competition US and China
+WA-05;Rodgers  Cathy;R;2188 RHOB;(202) 225-2006;Energy and Commerce
+WA-06;Kilmer  Derek;D;1226 LHOB;(202) 225-5916;Appropriations|House Administration
+WA-07;Jayapal  Pramila;D;2346 RHOB;(202) 225-3106;Education and the Workforce|Judiciary
+WA-08;Schrier  Kim;D;1110 LHOB;(202) 225-7761;Energy and Commerce
+WA-09;Smith  Adam;D;2264 RHOB;(202) 225-8901;Armed Services
+WA-10;Strickland  Marilyn;D;1708 LHOB;(202) 225-9740;Armed Services|Transportation and Infrastructure
+WV-01;Miller  Carol;R;465 CHOB;(202) 225-3452;Ways and Means
+WV-02;Mooney  Alexander;R;2228 RHOB;(202) 225-2711;Financial Services
+WI-01;Steil  Bryan;R;1526 LHOB;(202) 225-3031;Financial Services|House Administration
+WI-02;Pocan  Mark;D;1026 LHOB;(202) 225-2906;Appropriations
+WI-03;Van Orden  Derrick;R;1513 LHOB;(202) 225-5506;Agriculture|Transportation and Infrastructure|Veterans' Affairs
+WI-04;Moore  Gwen;D;2252 RHOB;(202) 225-4572;Ways and Means
+WI-05;Fitzgerald  Scott;R;1507 LHOB;(202) 225-5101;Financial Services|Judiciary
+WI-06;Grothman  Glenn;R;1511 LHOB;(202) 225-2476;Budget|Education and the Workforce|Oversight and Accountability
+WI-07;Tiffany  Thomas;R;451 CHOB;(202) 225-3365;Natural Resources|Judiciary
+WI-08;Gallagher  Mike;R;1211 LHOB;(202) 225-5665;Armed Services|Intelligence|Select Comm on the Strategic Competition US and China
+WY-AL;Hageman  Harriet;R;1531 LHOB;(202) 225-2311;Select Subcommittee on the Weaponization of the Fed Govt|Natural Resources|Judiciary
